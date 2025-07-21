@@ -1,0 +1,16 @@
+body {
+  font-family: sans-serif;
+  background: #eee;
+}
+.container {
+  width: 300px;
+  margin: 50px auto;
+  background: white;
+  padding: 20px;
+  border-radius: 8px;
+}
+li {
+  display: flex;
+  justify-content: space-between;
+  padding: 5px;
+}
